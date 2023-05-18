@@ -5670,6 +5670,19 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+.bilibili {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+}
+.iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  Left: 0;
+  top: 0;
+}
 .search-dialog {
   position: fixed;
   top: 10%;
